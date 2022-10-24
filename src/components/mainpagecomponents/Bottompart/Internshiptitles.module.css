@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  gap: 180px;
+  align-items: center;
+  width: 73vw;
+  margin-top: 20px;
+}
+
+.titles {
+  display: flex;
+
+  gap: 20px;
+}
+
+.title {
+  display: flex;
+  gap: 20px;
+  font-weight: bold;
+  align-items: center;
+}
+
+.title:nth-child(4) {
+  margin-left: 50px;
+}
+
+.arrowImg {
+  height: 20px;
+  width: 20px;
+}

@@ -1,0 +1,48 @@
+.wrapper {
+  display: flex;
+  background-color: #fff;
+  width: 73vw;
+  align-items: flex-start;
+}
+
+.description {
+  width: 200px;
+  margin-right: 10%;
+}
+
+.days {
+  background-color: rgba(240, 239, 253, 1);
+  color: rgba(121, 62, 245, 1);
+  width: 70px;
+  height: 27px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+p {
+  margin: 0;
+}
+
+.enrolled {
+  margin-left: 60px;
+}
+
+.graph {
+  margin-left: 7%;
+  width: 175px;
+}
+
+.imgGroup {
+  margin-left: 5%;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.imgGroup img {
+  height: 20px;
+  width: 20px;
+}

@@ -1,0 +1,20 @@
+.container {
+  background-color: rgba(102, 95, 239, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 4px;
+  width: 150px;
+  height: 30px;
+  border-radius: 7px;
+  padding: 5px;
+  box-sizing: border-box;
+  border: 1px solid rgba(121, 62, 245, 1);
+  font-weight: 500;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+.itemLogo {
+  height: 18px;
+}

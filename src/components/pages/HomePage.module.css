@@ -1,0 +1,9 @@
+.wrapper {
+  background-color: rgba(241, 244, 248, 1);
+  height: 100vh;
+  padding: 5px;
+  display: grid;
+  grid-template-columns: 0.5fr 6fr;
+  align-items: center;
+  gap: 25px;
+}

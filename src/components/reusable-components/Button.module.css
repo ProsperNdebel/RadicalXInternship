@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 5px;
+  font-size: 10px;
+  background-color: rgba(121, 62, 245, 1);
+  width: 140px;
+  padding-left: 10px;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btnImg {
+  width: 14px;
+  height: 14px;
+}
